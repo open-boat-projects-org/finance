@@ -1,18 +1,18 @@
 Finances for Boot 2022
 
-Die Finanzierung haben wir mit dem gespendeten Geld aus diesem Jahr mit 1410,00 Euro ca. die Hälfte in der Tasche. Über eine Spendenaktion müssen wir noch die andere Hälfte zusammen bekommen. Dazu habe ich wieder einen Spendenpool bei Paypal eingerichtet:
-
-https://paypal.me/pools/c/8DdAO2DzTl = 1.070,00 Euro
+Über die Spendenaktion haben wir 2480 Euro einsammeln können. Noch einmal vielen Dank allen Spendern die uns die finanzielle Ausstattung unseres Messestandes ermöglicht haben.
 
 Kostenschätzung boot_2022 (zzgl. MwSt.):
-- Standmiete: EUR 1.532,80
-- Medienpauschale: EUR 380,00
+- Standmiete: EUR 914,87
+- Medienpauschale: EUR 452,20
 - 3 Stk. Austellerausweise: EUR 0,00
-- Stromanschluss: EUR 24,50
-- Stromverteiler: EUR 150,95
+- Vorauszahlung techn. Dienstleistungen: EUR 419,17
+- 3 Stk. Austellerausweise: EUR 0,00
+
+Voraussichtliche weitere Kosten
+- Sondergenehmigung Wifi: EUR 229,00
 - Stromverbrauch: EUR 0,49 pro kW/h (EUR 16,- bei der boot_2020)
 - Erdungsanschluss: EUR 32,85
-- Sondergenehmigung Wifi: EUR 229,00
 - Haftpflichtversicherung
 - Unfall-Versicherung
 - weitere Ausstellerausweise
