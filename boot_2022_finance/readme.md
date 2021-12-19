@@ -5,7 +5,6 @@ Finances for Boot 2022
 Kostenschätzung boot_2022 (zzgl. MwSt.):
 - Standmiete: EUR 914,87
 - Medienpauschale: EUR 452,20
-- 3 Stk. Austellerausweise: EUR 0,00
 - Vorauszahlung techn. Dienstleistungen: EUR 419,17
 - 3 Stk. Austellerausweise: EUR 0,00
 
